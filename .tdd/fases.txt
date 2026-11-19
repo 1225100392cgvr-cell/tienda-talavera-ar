@@ -1,0 +1,4 @@
+1|test/dominio_test.dart|lib/dominio/carrito.dart;lib/dominio/tarjeta.dart
+2|test/servicios_test.dart|lib/datos/pasarela_simulada.dart;lib/dominio/servicio_checkout.dart;lib/datos/auth_simulada.dart
+3|test/viewmodels_test.dart|lib/presentacion/vm/catalogo_vm.dart;lib/presentacion/vm/carrito_vm.dart;lib/presentacion/vm/sesion_vm.dart;lib/presentacion/vm/checkout_vm.dart
+4|*|
