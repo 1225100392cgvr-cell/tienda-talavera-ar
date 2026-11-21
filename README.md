@@ -104,3 +104,23 @@ Tarjeta de práctica: `4242 4242 4242 4242`, cualquier fecha futura y CVV `123`.
 ## Resultado
 
 Las tres capas del proyecto se construyeron con el ciclo rojo → verde, con su evidencia en cada fase y la corrida final de todas las pruebas.
+
+## App corriendo en el emulador
+
+<!-- APP_INICIO -->
+Capturas tomadas en el emulador de Android con `flutter drive` (prueba de integraci&oacute;n `integration_test/capturas_test.dart`, que recorre la app y toma una foto de cada pantalla).
+
+**La app abierta en el emulador**
+
+<img src="capturas/app/00_emulador.png" width="380">
+
+| | | |
+|:-:|:-:|:-:|
+| <img src="capturas/app/01_catalogo.png" width="230"><br>Catalogo | <img src="capturas/app/02_detalle_del_producto.png" width="230"><br>Detalle del producto | <img src="capturas/app/03_carrito.png" width="230"><br>Carrito |
+| <img src="capturas/app/04_iniciar_sesion.png" width="230"><br>Iniciar sesion | <img src="capturas/app/05_mi_perfil.png" width="230"><br>Mi perfil | <img src="capturas/app/06_finalizar_compra.png" width="230"><br>Finalizar compra |
+
+**La prueba de integraci&oacute;n ejecutada desde el cmd**
+
+![Prueba de integraci&oacute;n en el cmd](capturas/app/prueba_integracion_cmd.png)
+
+<!-- APP_FIN -->
